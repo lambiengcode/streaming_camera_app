@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>738364765276-271v1acf4kh2nl8jvan3uaqllr5uv67g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.738364765276-271v1acf4kh2nl8jvan3uaqllr5uv67g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDitFVLYS4dFwRslu3GnYBcjLSWAYnrbno</string>
+	<key>GCM_SENDER_ID</key>
+	<string>738364765276</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.desktopAppCamera</string>
+	<key>PROJECT_ID</key>
+	<string>control-my-camera</string>
+	<key>STORAGE_BUCKET</key>
+	<string>control-my-camera.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:738364765276:ios:d0cdb1f095af934388e299</string>
+	<key>DATABASE_URL</key>
+	<string>https://control-my-camera.firebaseio.com</string>
+</dict>
+</plist>
