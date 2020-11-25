@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738364765276",
+    "firebase_url": "https://control-my-camera.firebaseio.com",
+    "project_id": "control-my-camera",
+    "storage_bucket": "control-my-camera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738364765276:android:9d91b0b953047df088e299",
+        "android_client_info": {
+          "package_name": "com.example.desktop_app_camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738364765276-5ka8odiktcg222qk5vjq773kcdp992in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjAcDpMUDrj2cyS5gxWCoeBjSit49XBWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738364765276-5ka8odiktcg222qk5vjq773kcdp992in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
